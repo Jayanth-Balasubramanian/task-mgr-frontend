@@ -1,5 +1,5 @@
-# Name: Jayanth Balasubramanian
-# Matriculation No: A0245173H
+### Name: Jayanth Balasubramanian
+### Matriculation No: A0245173H
 
 
 # Getting Started with Create React App
